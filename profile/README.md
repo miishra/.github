@@ -47,7 +47,7 @@ The programme Committee consists of Arife Vural-Butcher (Freelancer), Lars-Johan
 
   [Extensions to Catalog Zones (IETF draft)](https://github.com/DNS-Hackathon/catalog-extensions-draft)
 
-- idIOT
+- [idIOT](https://docs.google.com/presentation/d/1Z1BlNkxO--nC5BMNQqwTlKxCJaS8PCoagECqaTfOJy4/edit?usp=sharing)
 
   Results presentation
 
