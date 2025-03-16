@@ -49,7 +49,7 @@ The programme Committee consists of Arife Vural-Butcher (Freelancer), Lars-Johan
 
 - idIOT
 
-  Results presentation
+  [Results presentation](https://docs.google.com/presentation/d/1Z1BlNkxO--nC5BMNQqwTlKxCJaS8PCoagECqaTfOJy4/edit?usp=sharing)
 
   Team: Ulrich Wisser (ICANN), Andrew Losty (UCL), Abhishek Kumar Mishra (Inria, Lyon), Arife Vural-Butcher (Freelancer)
 
